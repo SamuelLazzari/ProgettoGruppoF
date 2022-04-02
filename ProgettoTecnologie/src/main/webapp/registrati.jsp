@@ -42,7 +42,7 @@
                 }
             %>
             <div class="row justify-content-center">
-                <form action="invia" method="POST">
+                <form action="gestiscipersona" method="POST">
                     
                     <div class="row justify-content-center">
                         <div class="col-4 justify-content-center">

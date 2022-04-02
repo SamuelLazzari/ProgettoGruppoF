@@ -1,1 +1,3 @@
-Accedi.class
+Database\DatabaseManager.class
+Servlet\GestisciPersona.class
+Servlet\Persona.class
